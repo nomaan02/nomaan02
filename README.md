@@ -1,8 +1,11 @@
 # Hi, I'm Nomaan
 
-I'm a designer and developer in Bristol. I build products end to end: from the first sketch, through the data and integrations, to something people can actually use.
+I'm a designer and developer in Bristol. I build products end to end: from the first sketches and prototypes, through the data and integrations, to something people can actually use.
 
-I spent four years as a UX designer at Barclays, and since 2021 I've run **NakoLabs**, a design and motion studio with 100+ projects for 30+ clients. These days most of my work is software, built with AI coding tools like Claude Code and Cursor.
+I spent four years as a UX designer at Barclays, and since 2021 I've run **NakoLabs**, a design and motion studio with 100+ projects for 30+ clients. These days most of my work is software, taken on brief by brief: anything from real-time trading data platforms to performance tools for door-to-door sales teams.
+
+I have a passion, bordering on obsession, for optimising my own workflows - so a lot of what I build starts as a fix for something that slowed me down. This new era of ai has been an exciting one - as it has allowed me to really push the limits on any and all ideas!
+
 
 ## Main projects
 
