@@ -13,7 +13,7 @@ I have a passion, bordering on obsession, for optimising my own workflows - so a
 - **[everlink-nfc-commerce](https://github.com/nomaan02/everlink-nfc-commerce)**: NFC jewellery for a client. Every piece has a chip that opens a personal page its owner set up, powered by a Shopify store and a companion web app.
 - **[quanttrader-architecture](https://github.com/nomaan02/quanttrader-architecture)**: the real-time market data pipeline behind a trading research platform I'm building with a business partner, from broker and data-vendor APIs to a time-series database.
 - **[voxprompt](https://github.com/nomaan02/voxprompt)**: talk to your AI coding assistant instead of typing to it. Speech is transcribed on your own machine, then tidied into a clear prompt.
-- **[cisi-revision-hub](https://github.com/nomaan02/cisi-revision-hub)**: an AI study app I built for my partner that turned a 500-page compliance textbook into a prioritised revision plan.
+- **[cisi-revision-hub](https://github.com/nomaan02/cisi-revision-hub)**: an AI study app I built for my partner who was studying for her CISI Financial Regulations exam that turned a 500-page compliance textbook into a prioritised revision plan.
 
 ## What I use
 
