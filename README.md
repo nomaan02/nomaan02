@@ -32,8 +32,8 @@ Field-sales dashboards from a CRM and UK open data<br>
 - **People:** Figma-to-code handover, explaining technical things to non-technical people
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,nextjs,react,docker,redis,figma,blender&theme=dark">
-  <img alt="Python, TypeScript, Next.js, React, Docker, Redis, Figma, Blender" src="https://skillicons.dev/icons?i=python,ts,nextjs,react,docker,redis,figma,blender&theme=light" height="40">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cnextjs%2Creact%2Cdocker%2Credis%2Cfigma%2Cblender&theme=dark">
+  <img alt="Python, TypeScript, Next.js, React, Docker, Redis, Figma, Blender" src="https://skillicons.dev/icons?i=python%2Cts%2Cnextjs%2Creact%2Cdocker%2Credis%2Cfigma%2Cblender&theme=light" height="40">
 </picture>
 
 ## <img src="./assets/ui/n03.svg" alt="03" height="30" align="absmiddle">&nbsp; How I use AI
