@@ -10,7 +10,7 @@ repetitive, I'm usually already working out how software can take it off people'
 
 - 🧠 **[QuantTrader architecture](https://github.com/nomaan02/quanttrader-architecture)** - real-time market data and a local LLM layer that analyses but never executes
 - 🔗 **[Everlink](https://github.com/nomaan02/everlink-nfc-commerce)** - Shopify webhooks → NFC-linked personalised pages (paused client PoC)
-- 🗺️ **Canvasser Performance Platform** - field-sales dashboards from a CRM and UK open data · *demo in progress*
+- 🗺️ **[Canvasser Performance Platform](https://github.com/nomaan02/canvasser-performance-platform)** - field-sales dashboards from a CRM and UK open data · *demo in progress*
 
 ## What I'm good at
 
