@@ -1,18 +1,29 @@
-# Nomaan - design-minded integration engineer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img alt="Nomaan Akram - design-minded integration engineer. APIs, data pipelines, applied AI." src="./assets/banner-light.svg" width="100%">
+</picture>
 
 I build the layer between messy systems and real users: APIs, data pipelines and applied AI,
 designed so non-technical teams actually adopt them. If a workflow is slow, manual or
 repetitive, I'm usually already working out how software can take it off people's hands.
 
-**4 years UX at Barclays** · **Founder of** [**NakoLabs**](https://www.instagram.com/nako.labs/) (100+ client projects) · Bristol / remote UK
+<img src="./assets/ui/open-to-work.svg" alt="Open to work" align="absmiddle"> <img src="./assets/ui/barclays.svg" alt="Barclays: 4 years UX" align="absmiddle"> <a href="https://www.instagram.com/nako.labs/"><img src="./assets/ui/nakolabs.svg" alt="NakoLabs: founder, 100+ client projects" align="absmiddle"></a> <img src="./assets/ui/location.svg" alt="Based in Bristol / remote UK" align="absmiddle">
 
-## Start here
+## <img src="./assets/ui/n01.svg" alt="01" height="30" align="absmiddle">&nbsp; Start here
 
-- 🧠 **[QuantTrader architecture](https://github.com/nomaan02/quanttrader-architecture)** - real-time market data and a local LLM layer that analyses but never executes
-- 🔗 **[Everlink](https://github.com/nomaan02/everlink-nfc-commerce)** - Shopify webhooks → NFC-linked personalised pages (paused client PoC)
-- 🗺️ **[Canvasser Performance Platform](https://github.com/nomaan02/canvasser-performance-platform)** - field-sales dashboards from a CRM and UK open data · *demo in progress*
+**[QuantTrader architecture](https://github.com/nomaan02/quanttrader-architecture)**<br>
+Real-time market data and a local LLM layer that analyses but never executes<br>
+<img src="./assets/ui/status-showcase.svg" alt="Status: architecture showcase" align="absmiddle"> <img src="./assets/ui/tag-python.svg" alt="Python" align="absmiddle"> <img src="./assets/ui/tag-redis-streams.svg" alt="Redis Streams" align="absmiddle"> <img src="./assets/ui/tag-questdb.svg" alt="QuestDB" align="absmiddle"> <img src="./assets/ui/tag-docker.svg" alt="Docker" align="absmiddle"> <img src="./assets/ui/tag-ollama.svg" alt="Ollama" align="absmiddle">
 
-## What I'm good at
+**[Everlink](https://github.com/nomaan02/everlink-nfc-commerce)**<br>
+Shopify webhooks → NFC-linked personalised pages<br>
+<img src="./assets/ui/status-paused.svg" alt="Status: paused client PoC" align="absmiddle"> <img src="./assets/ui/tag-typescript.svg" alt="TypeScript" align="absmiddle"> <img src="./assets/ui/tag-shopify-webhooks.svg" alt="Shopify webhooks" align="absmiddle"> <img src="./assets/ui/tag-hmac.svg" alt="HMAC" align="absmiddle"> <img src="./assets/ui/tag-liquid.svg" alt="Liquid" align="absmiddle">
+
+**[Canvasser Performance Platform](https://github.com/nomaan02/canvasser-performance-platform)**<br>
+Field-sales dashboards from a CRM and UK open data<br>
+<img src="./assets/ui/status-demo.svg" alt="Status: demo in progress" align="absmiddle"> <img src="./assets/ui/tag-typescript.svg" alt="TypeScript" align="absmiddle"> <img src="./assets/ui/tag-vtiger-crm.svg" alt="vtiger CRM" align="absmiddle"> <img src="./assets/ui/tag-uk-open-data.svg" alt="UK open data" align="absmiddle"> <img src="./assets/ui/tag-read-only-by-design.svg" alt="Read-only by design" align="absmiddle">
+
+## <img src="./assets/ui/n02.svg" alt="02" height="30" align="absmiddle">&nbsp; What I'm good at
 
 - **Integrations:** REST APIs and webhooks (Shopify Admin/Storefront, CRMs)
 - **Data & infra:** pipelines, record matching (UPRN), Redis, Docker
@@ -20,7 +31,12 @@ repetitive, I'm usually already working out how software can take it off people'
 - **Build:** Python, TypeScript, Next.js, React
 - **People:** Figma-to-code handover, explaining technical things to non-technical people
 
-## How I use AI
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,nextjs,react,docker,redis,figma,blender&theme=dark">
+  <img alt="Python, TypeScript, Next.js, React, Docker, Redis, Figma, Blender" src="https://skillicons.dev/icons?i=python,ts,nextjs,react,docker,redis,figma,blender&theme=light" height="40">
+</picture>
+
+## <img src="./assets/ui/n03.svg" alt="03" height="30" align="absmiddle">&nbsp; How I use AI
 
 AI is only as good as the context it's given, so I engineer the context first. Each project I
 work on has its own knowledge base, or "brain": architecture notes, decision records and
@@ -31,6 +47,8 @@ effort on solving the problem rather than piecing the problem together.
 
 I use Claude Code and Cursor daily, but I still design the architecture myself, review every
 diff and test what ships.
+
+<img src="./assets/ui/tag-claude-code.svg" alt="Claude Code" align="absmiddle"> <img src="./assets/ui/tag-cursor.svg" alt="Cursor" align="absmiddle"> <img src="./assets/ui/tag-mcp.svg" alt="MCP" align="absmiddle"> <img src="./assets/ui/tag-obsidian.svg" alt="Obsidian" align="absmiddle"> <img src="./assets/ui/tag-ollama.svg" alt="Ollama" align="absmiddle">
 
 <details>
 <summary><b>My AI workflow in a bit more detail</b></summary>
@@ -54,8 +72,10 @@ diff and test what ships.
 
 </details>
 
-## Get in touch
+## <img src="./assets/ui/n04.svg" alt="04" height="30" align="absmiddle">&nbsp; Get in touch
 
-Open to **solutions, implementation, AI implementation and DevRel** roles.
+Open to these roles:
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Email](mailto:nomaanakram4@gmail.com)
+<img src="./assets/ui/role-solutions.svg" alt="Solutions" align="absmiddle"> <img src="./assets/ui/role-implementation.svg" alt="Implementation" align="absmiddle"> <img src="./assets/ui/role-ai-implementation.svg" alt="AI implementation" align="absmiddle"> <img src="./assets/ui/role-devrel.svg" alt="DevRel" align="absmiddle">
+
+<a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="./assets/ui/linkedin.svg" alt="LinkedIn" align="absmiddle"></a> <a href="mailto:nomaanakram4@gmail.com"><img src="./assets/ui/email.svg" alt="Email" align="absmiddle"></a>
